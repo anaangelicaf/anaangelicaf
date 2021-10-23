@@ -19,16 +19,13 @@ Hi, I'm Ana Fernández !, Fullstack Web Developer, Professor in the Specialty of
 
 ## :pushpin: My proyects / Mis Proyectos
 
+
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/86435558/138573365-3336617f-8d90-4f1e-af49-137d4e36b68a.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
 </p>
-<p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
-</p>
+
 
 ---
 ##  📫 How can you contact me / Como puedes contactarme: ...
