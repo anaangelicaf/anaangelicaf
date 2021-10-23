@@ -1,4 +1,4 @@
-![head.png](https://user-images.githubusercontent.com/86435558/138571261-a06f04aa-7d5b-4271-a678-f455e7ff5666.png)
+![head.png](https://user-images.githubusercontent.com/86435558/138571484-001822d2-aed7-493f-9498-6677e0deeed8.png)
 <!--
 **anaangelicaf/anaangelicaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
