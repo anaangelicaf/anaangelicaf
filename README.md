@@ -8,16 +8,32 @@ Hi, I'm Ana Fernández !, Fullstack Web Developer, Professor in the Specialty of
 ¿Quién soy? 🧐
 ➖ Hola soy Ana Fernández!, Fullstack Web Developer, Profesora en la Especialidad de Informática y Técnico Superior en Informática, cuento con gran capacidad para la resolución de problemas, con las competencias para realizar proyectos web en equipo o de manera individual y siempre en búsqueda de nuevos desafíos para seguir creando y enseñando.  
 
-## :star: Technologies/ Tecnologías :
+---
+ <h3 align="left">
+ :star: Technologies/ Tecnologías:
+</h3>
 
+![tecnologias](https://user-images.githubusercontent.com/86435558/138572682-bb4b6aad-bbab-4667-bd54-ecc4cfbb5b3a.png)
 
-![tec.png](https://user-images.githubusercontent.com/86435558/138572348-9c11e16a-243d-4390-92ab-b398a9a1049e.png)
+---
 
+## :pushpin: My proyects / Mis Proyectos
 
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+</p>
+<p>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/carrito.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/reviews.png"></a>
+  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/average.png"></a>
+</p>
 
-## - 📫 How can you contact me / Como puedes contactarme: ...
+---
+##  📫 How can you contact me / Como puedes contactarme: ...
 
-   <center>
+   <p align="center">
       <a href="https://www.linkedin.com/in/ana-angelica-fernandez-morales/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt=" " height="30" width="30">
          &nbsp
@@ -30,7 +46,7 @@ Hi, I'm Ana Fernández !, Fullstack Web Developer, Professor in the Specialty of
        &nbsp 
          <img alt="Whatsapp" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" height="30" width="30"/>
       </a>  
-   </center>
+   </p>
 
 ---
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
