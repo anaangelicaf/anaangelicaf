@@ -1,5 +1,5 @@
 ### Hi, I AM ANA FERNANDEZ👋
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://user-images.githubusercontent.com/86435558/138571261-a06f04aa-7d5b-4271-a678-f455e7ff5666.png)
 <!--
 **anaangelicaf/anaangelicaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
