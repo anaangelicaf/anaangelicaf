@@ -22,7 +22,7 @@ Hi, I'm Ana Fernández !, Fullstack Web Developer, Professor in the Specialty of
 
 <p>
   <a><img src="https://user-images.githubusercontent.com/86435558/138573365-3336617f-8d90-4f1e-af49-137d4e36b68a.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
+  <a><img src="https://user-images.githubusercontent.com/86435558/138573504-3330d4bc-3d09-4de4-9c46-ef653da42987.png"></a>
   <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
 </p>
 
