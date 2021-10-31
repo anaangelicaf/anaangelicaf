@@ -2,7 +2,7 @@
 <!--
 **anaangelicaf/anaangelicaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3> 👨🏻•💻 About Me </h3>![49448](https://user-images.githubusercontent.com/86435558/139562799-2181416a-421b-458f-938d-20457f156110.jpg)
+<h3> 👨🏻•💻 About Me </h3>
 
 Hi, I'm Ana Fernández !, Fullstack Web Developer, Professor in the Specialty of Computer Science and Senior Technician in Computer Science, I have great ability to solve problems, with the skills to carry out web projects as a team or individually and always in search for new challenges to continue creating and teaching.
 
